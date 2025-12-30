@@ -7,9 +7,8 @@
 </div>
 -->
 
-# FSW Donalds 🍔
+# SelfCheckout 🍔
 
-Este projeto foi desenvolvido durante a Full Stack Week com o objetivo de criar uma aplicação web para um sistema de delivery de alimentos, inspirado em plataformas populares como iFood.
 
 ## Tecnologias Utilizadas 🛠️
 
@@ -23,5 +22,3 @@ Este projeto foi desenvolvido durante a Full Stack Week com o objetivo de criar 
 - **Visualização de Restaurantes**: Explore uma variedade de restaurantes disponíveis na plataforma.
 - **Carrinho de Compras**: Adicione itens ao carrinho e gerencie suas seleções antes de finalizar o pedido.
 - **Pedidos em Tempo Real**: Acompanhe o status dos seus pedidos em tempo real.
-
-## Este projeto foi desenvolvido durante a Full Stack Week, orientado por Felipe Rocha. Você pode encontrar mais informações sobre o evento no canal do YouTube
